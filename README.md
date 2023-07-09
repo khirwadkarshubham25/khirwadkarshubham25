@@ -84,9 +84,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 GitHub Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khirwadkarshubham25&theme=gruvbox)
+![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=khirwadkarshubham25&theme=blue-green)
 
-![Stats1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khirwadkarshubham25&theme=gruvbox)
+![Stats1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khirwadkarshubham25&theme=blue-green)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### 🌐 Socials
