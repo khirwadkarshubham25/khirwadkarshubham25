@@ -9,14 +9,16 @@
         def __init__(self):
             self.name = "Shubham Khirwadkar"
             self.role = "Software Engineer"
-            self.experience = "3 years"
+            self.experience = "4 years"
             self.degree = "Master's degree"
             self.major = "Computer Science"
             self.university = "The University of Texas at Arlington"
-            self.languages = ["Python", "Java", "JavaScript", "SQL"]
-            self.databases = ["PostgreSQL", "MySQL", "SQLite", "MongoDB"]
-            self.frameworks = ["Django", "Spring Boot", "React"]
-    
+            self.languages = ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL", "NoSQL"]
+            self.databases = ["PostgreSQL", "MySQL", "Oracle Database", "SQLite", "MongoDB", "DynamoDB"]
+            self.frameworks = ["Django", "Spring Boot", "React", "Selenium", "Appium"]
+            self.tools = ["Maven", "Swagger", "REST" , "SOAP", "JIRA", "Docker", "Git", "Jenkins", "Airflow", "AWS", "Json", "XML", "SVN", "Kafka"]
+            self.sdlc = ["Agile Methodology", "Waterfall Model"]
+            self.os = ["Linux", "Unix", "Windows"]    
     
         def hello_world(self):
             print("Hello World! Welcome to my GitHub profile!")
