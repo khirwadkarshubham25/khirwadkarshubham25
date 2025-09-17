@@ -9,16 +9,18 @@
         def __init__(self):
             self.name = "Shubham Khirwadkar"
             self.role = "Software Engineer"
-            self.experience = "4 years"
+            self.experience = "5 years"
             self.degree = "Master's degree"
             self.major = "Computer Science"
             self.university = "The University of Texas at Arlington"
-            self.languages = ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL", "NoSQL"]
-            self.databases = ["PostgreSQL", "MySQL", "Oracle Database", "SQLite", "MongoDB", "DynamoDB"]
-            self.frameworks = ["Django", "Spring Boot", "React", "Selenium", "Appium"]
-            self.tools = ["Maven", "Swagger", "REST" , "SOAP", "JIRA", "Docker", "Git", "Jenkins", "Airflow", "AWS", "Json", "XML", "SVN", "Kafka"]
-            self.sdlc = ["Agile Methodology", "Waterfall Model"]
-            self.os = ["Linux", "Unix", "Windows"]    
+            self.languages_web_technologies = ["Python", "Java", "JavaScript", "SQL", "Bash", "HTML", "CSS", "Django", "Flask", "Spring Boot", "React", "JavaEE", "REST APIs", "JSON", "Servlets", "JSP"]
+            self.cloud_devops = ["AWS", "Docker", "Jenkins", "Git", "GitHub", "JIRA", "Apache Airflow"]
+            self.databases = ["PostgreSQL", "MySQL", "MongoDB", "DynamoDB"]
+            self.testing_tools = ["Selenium", "Appium", "TestNg", "PyTest", "Maven", "Swagger"]
+            self.methodologies_concepts = ["Microservices", "Object-Oriented Design", "Agile Methodology", "Waterfall Model", "Distributed Systems"]
+            self.security = ["Wireshark", "Splunk", "Risk Assessment and Management", "Vulnerability and Threat Assessment"]
+            self.os = ["Linux", "Unix", "Windows"]
+            self.certifications = ["Google Cybersecurity", "Microsoft Technology Associate Security Fundamentals"]
     
         def hello_world(self):
             print("Hello World! Welcome to my GitHub profile!")
