@@ -3,53 +3,11 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=khirwadkarshubham25.khirwadkarshubham25)
 
+I am a product-driven Software Engineer with over five years of experience designing, deploying, and maintaining high-quality backend and automation solutions. My professional background includes architecting core business logic with Spring Boot and Hibernate for complex insurance systems, where I developed resilient REST APIs and created automated reporting systems that boosted operational efficiency by over 50%. I have also led the development of a custom framework using Python and Django and engineered robust CI/CD pipelines using Docker and Jenkins on AWS, consistently striving for high code quality and data integrity in an Agile environment.
 
-    class SoftwareEngineer:
-    
-        def __init__(self):
-            self.name = "Shubham Khirwadkar"
-            self.role = "Software Engineer"
-            self.experience = "5 years"
-            self.degree = "Master's degree"
-            self.major = "Computer Science"
-            self.university = "The University of Texas at Arlington"
-            self.languages_web_technologies = ["Python", "Java", "JavaScript", "SQL", "Bash", "HTML", "CSS", "Django", "Flask", "Spring Boot", "React", "JavaEE", "REST APIs", "JSON", "Servlets", "JSP"]
-            self.cloud_devops = ["AWS", "Docker", "Jenkins", "Git", "GitHub", "JIRA", "Apache Airflow"]
-            self.databases = ["PostgreSQL", "MySQL", "MongoDB", "DynamoDB"]
-            self.testing_tools = ["Selenium", "Appium", "TestNg", "PyTest", "Maven", "Swagger"]
-            self.methodologies_concepts = ["Microservices", "Object-Oriented Design", "Agile Methodology", "Waterfall Model", "Distributed Systems"]
-            self.security = ["Wireshark", "Splunk", "Risk Assessment and Management", "Vulnerability and Threat Assessment"]
-            self.os = ["Linux", "Unix", "Windows"]
-            self.certifications = ["Google Cybersecurity", "Microsoft Technology Associate Security Fundamentals"]
-    
-        def hello_world(self):
-            print("Hello World! Welcome to my GitHub profile!")
-    
-        def about_me(self):
-            print(f""" 
-                I am a passionate {self.role} with {self.experience} of industry experience in web application development. 
-                I hold a {self.degree} in {self.major} from {self.university}. My expertise lies in building scalable and 
-                robust solutions that meet both business and technical needs.
-    
-                During my professional journey, I have worked on various projects, collaborating with cross-functional teams 
-                and following Agile methodologies. I have a strong command over technologies such as {', '.join(self.languages)}, 
-                and have hands-on experience with frameworks like {', '.join(self.frameworks)}.
-    
-                With a strong foundation in computer science, I have a logical and analytical mindset that allows me to effectively 
-                diagnose and solve complex problems. I have successfully contributed to the development of robust and scalable solutions,
-                collaborating with cross-functional teams and adhering to Agile methodologies.
-    
-                I believe in continuous learning and professional growth. I am always exploring new technologies and tools to stay 
-                updated with the evolving industry trends. My GitHub repositories showcase my passion for coding and highlight my 
-                projects and contributions.
-    
-                If you're interested in collaborating on exciting projects or exploring opportunities, feel free to reach out. Let's 
-                connect and discuss how we can make a positive impact through technology!
-            """)
-    
-    software_engineer = SoftwareEngineer()
-    software_engineer.hello_world()
-    software_engineer.about_me()
+My technical foundation is rooted in strong academics, holding a Master's degree in Computer Science from The University of Texas at Arlington and a Bachelor’s degree in Computer Science from Vishwakarma Institute of Technology. This formal education is complemented by practical, cutting-edge knowledge, including recent certifications like the Google Cybersecurity Professional Certificate. I am adept at translating complex theoretical concepts into well-engineered, secure, and production-ready applications.
+
+I'm passionate about blending strong backend engineering with proactive cybersecurity. My focus is building systems that are fast and reliable, but are designed to be secure right from the start. I'm actively using my deep software development skills to pivot toward roles centered on security operations and building secure applications.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -90,12 +48,9 @@
 
 ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=khirwadkarshubham25&theme=blue-green)
 
-![Stats1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khirwadkarshubham25&theme=blue-green)
-
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-b62963111/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubham0925/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shubham0925/)
 [![My Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shubhamkhirwadkar.netlify.app/)
