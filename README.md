@@ -3,11 +3,15 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=khirwadkarshubham25.khirwadkarshubham25)
 
-I am a product-driven Software Engineer with over five years of experience designing, deploying, and maintaining high-quality backend and automation solutions. My professional background includes architecting core business logic with Spring Boot and Hibernate for complex insurance systems, where I developed resilient REST APIs and created automated reporting systems that boosted operational efficiency by over 50%. I have also led the development of a custom framework using Python and Django and engineered robust CI/CD pipelines using Docker and Jenkins on AWS, consistently striving for high code quality and data integrity in an Agile environment.
+I am a highly focused Software Engineer specializing in the design, development, and deployment of scalable, high-performance backend systems. My foundation lies in utilizing Java (Spring Boot, Hibernate) and Python to build robust RESTful APIs that power critical business processes.
 
-My technical foundation is rooted in strong academics, holding a Master's degree in Computer Science from The University of Texas at Arlington and a Bachelor’s degree in Computer Science from Vishwakarma Institute of Technology. This formal education is complemented by practical, cutting-edge knowledge, including recent certifications like the Google Cybersecurity Professional Certificate. I am adept at translating complex theoretical concepts into well-engineered, secure, and production-ready applications.
+My technical vision is rooted in strong academics, holding a Master's degree in Computer Science from The University of Texas at Arlington and a Bachelor’s degree from Vishwakarma Institute of Technology. This formal education is complemented by practical, cutting-edge knowledge, including recent certifications like the Google Cybersecurity Professional Certificate. I am adept at translating complex theoretical concepts into well-engineered, secure, and production-ready applications.
 
-I'm passionate about blending strong backend engineering with proactive cybersecurity. My focus is building systems that are fast and reliable, but are designed to be secure right from the start. I'm actively using my deep software development skills to pivot toward roles centered on security operations and building secure applications.
+I am driven by product impact and ownership. My experience centers on translating complex business requirements into elegant, efficient code that directly enhances the user experience. I have consistently taken ownership of key modules, from initial architectural planning to final deployment, ensuring maximum reliability and minimal latency.
+
+I am passionate about blending strong backend engineering with proactive cybersecurity. My focus is building systems that are not only fast and reliable, but are designed to be secure right from the start. I am actively leveraging my deep software development skills to pivot toward roles centered on security operations and building secure, resilient applications.
+
+I thrive in Agile environments, serving as a proactive contributor who reinforces best practices in code quality, system stability, and continuous integration. I am committed to deep technical collaboration and mentorship within my team, elevating the overall engineering standard.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
