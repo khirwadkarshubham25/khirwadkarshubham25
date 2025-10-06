@@ -54,6 +54,8 @@ I thrive in Agile environments, serving as a proactive contributor who reinforce
 
 <img width="250" height="250" alt="google-cybersecurity-professional-certificate-v2" src="https://github.com/user-attachments/assets/b98994c8-5747-4de2-af5e-43373bd40fe7" />
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### 📊 GitHub Stats
 
