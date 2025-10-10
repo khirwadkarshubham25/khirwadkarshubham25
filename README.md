@@ -53,6 +53,7 @@ I thrive in Agile environments, serving as a proactive contributor who reinforce
 ### Badges
 
 <img width="250" height="250" alt="google-cybersecurity-professional-certificate-v2" src="https://github.com/user-attachments/assets/b98994c8-5747-4de2-af5e-43373bd40fe7" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=khirwadkarshubham&animated=true&border=no-border&theme=transparent" alt="LeetCode Badges" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -67,3 +68,4 @@ I thrive in Agile environments, serving as a proactive contributor who reinforce
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-b62963111/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubham0925/)
 [![My Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shubhamkhirwadkar.netlify.app/)
+[![Static Badge](https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/khirwadkarshubham/)
