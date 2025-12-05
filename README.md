@@ -13,6 +13,13 @@ I am passionate about blending strong backend engineering with proactive cyberse
 
 I thrive in Agile environments, serving as a proactive contributor who reinforces best practices in code quality, system stability, and continuous integration. I am committed to deep technical collaboration and mentorship within my team, elevating the overall engineering standard.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+### Badges
+
+<img width="250" height="250" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/e7ed9dc9-048d-472c-99be-a47690ce4f75" />
+<img width="250" height="250" alt="google-cybersecurity-professional-certificate-v2" src="https://github.com/user-attachments/assets/b98994c8-5747-4de2-af5e-43373bd40fe7" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=khirwadkarshubham&theme=transparent&border=no-border" alt="LeetCode Badges" />
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💻 Technical Stack
@@ -47,21 +54,6 @@ I thrive in Agile environments, serving as a proactive contributor who reinforce
 ![Static Badge](https://img.shields.io/badge/JIRA-white?style=for-the-badge&logo=jira&logoColor=%230052CC)
 ![Static Badge](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=%23FCC624)
 
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-### Badges
-
-<img width="250" height="250" alt="google-cybersecurity-professional-certificate-v2" src="https://github.com/user-attachments/assets/b98994c8-5747-4de2-af5e-43373bd40fe7" />
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=khirwadkarshubham&border=border&theme=transparent&animated=true" alt="LeetCode Badges" />
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-
-### 📊 GitHub Stats
-
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=khirwadkarshubham25&theme=blue-green)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### 🌐 Socials
