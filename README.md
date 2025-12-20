@@ -64,3 +64,4 @@ I thrive in Agile environments, serving as a proactive contributor who reinforce
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubham0925/)
 [![My Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shubhamkhirwadkar.netlify.app/)
 [![Static Badge](https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/khirwadkarshubham/)
+[![Static Badge](https://img.shields.io/badge/LetsDefend-335EEA?style=for-the-badge&logoColor=335EEA&color=335EEA)](https://app.letsdefend.io/user/shubham25khirwadkar)
