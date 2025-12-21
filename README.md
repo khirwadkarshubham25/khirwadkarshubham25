@@ -5,7 +5,7 @@
 
 I am a highly focused Software Engineer specializing in the design, development, and deployment of scalable, high-performance backend systems. My foundation lies in utilizing Java (Spring Boot, Hibernate) and Python to build robust RESTful APIs that power critical business processes.
 
-My technical vision is rooted in strong academics, holding a Master's degree in Computer Science from The University of Texas at Arlington and a Bachelor’s degree from Vishwakarma Institute of Technology. This formal education is complemented by practical, cutting-edge knowledge, including recent certifications like the Google Cybersecurity Professional Certificate. I am adept at translating complex theoretical concepts into well-engineered, secure, and production-ready applications.
+My technical vision is rooted in strong academics, holding a Master's degree in Computer Science from The University of Texas at Arlington and a Bachelor’s degree from Vishwakarma Institute of Technology. This formal education is complemented by practical, cutting-edge knowledge, including recent certifications like the Comptia Security+ and Google Cybersecurity Professional Certificate. I am adept at translating complex theoretical concepts into well-engineered, secure, and production-ready applications.
 
 I am driven by product impact and ownership. My experience centers on translating complex business requirements into elegant, efficient code that directly enhances the user experience. I have consistently taken ownership of key modules, from initial architectural planning to final deployment, ensuring maximum reliability and minimal latency.
 
