@@ -20,7 +20,7 @@ I thrive in Agile environments, serving as a proactive contributor who reinforce
 <img width="250" height="250" alt="google-cybersecurity-professional-certificate-v2" src="https://github.com/user-attachments/assets/b98994c8-5747-4de2-af5e-43373bd40fe7" />
 <img width="250" height="250" alt="mta-security-fundamentals-certified-2017" src="https://github.com/user-attachments/assets/1b52f460-be10-48db-b48e-298083f7d683" />
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=khirwadkarshubham&theme=transparent&border=no-border" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=khirwadkarshubham&border=no-border&theme=transparent" alt="LeetCode Badges" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### 🌐 Socials
